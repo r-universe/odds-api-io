@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "oddsapiio"]
+	path = oddsapiio
+	url = https://github.com/odds-api-io/odds-api-r
